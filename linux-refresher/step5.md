@@ -19,7 +19,7 @@ file srvinfo.c
 file srvinfo
 ```
 
-One of them is text you can read. The other is not, and never will be.
+One of them is text you can read. The other is compiled executable code which isn't human readable.
 
 <details><summary>Tip</summary>
 
