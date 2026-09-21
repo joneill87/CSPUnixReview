@@ -4,8 +4,7 @@ Before you touch anything, work out where you are and what is here.
 
 The service's logs can be found in a directory called `logs` which sits inside the `srv` directory. The `srv` directory should be inside your home directory (`/root`)
 
-Move into the directory holding the service's logs — using a
-relative path from where you are now, (not the full path from `/`) and leave a record of where you landed:
+Move into the directory holding the service's logs — using a relative path from where you are now, (not the full path from `/`) and leave a record of where you landed:
 
 ```
 pwd > here.txt

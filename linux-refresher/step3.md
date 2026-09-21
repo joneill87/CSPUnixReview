@@ -8,10 +8,8 @@ Tidy the service directory up. All of this happens under `srv`. (Make sure you r
 
 <details><summary>Tip</summary>
 
-Moving and copying are different commands, and one of these steps
-wants the same file to end up in two places at once — so that one is not a move.
+Moving and copying are different commands, and one of these steps wants the same file to end up in two places at once — so that one is not a move.
 
-If removing `old` fails, read the message before trying something
-heavier. `rmdir` removes a directory only when it is empty; deal with what is inside it first.
+If removing `old` fails, read the message before trying something heavier. `rmdir` removes a directory only when it is empty; deal with what is inside it first.
 
 </details>
