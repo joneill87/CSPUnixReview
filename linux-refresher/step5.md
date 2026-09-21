@@ -30,3 +30,5 @@ In `nano`: arrow keys move, typing edits, `Ctrl-O` then Enter saves, `Ctrl-X` le
 To run a program sitting in the directory you are standing in, you have to say so: `./srvinfo`.
 
 </details>
+
+**Going further:** [nano](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=12216s)

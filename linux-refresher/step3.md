@@ -13,3 +13,5 @@ Moving and copying are different commands, and one of these steps wants the same
 If removing `old` fails, read the message before trying something heavier. `rmdir` removes a directory only when it is empty; deal with what is inside it first.
 
 </details>
+
+**Going further:** [mkdir](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=3640s) · [rmdir](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=4323s) · [rm](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=4385s) · [mv](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=5035s) · [cp](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=5271s)

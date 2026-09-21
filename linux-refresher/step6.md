@@ -24,3 +24,5 @@ A shebang is `#!` followed by the path to the program that should run the file �
 `chmod +x` adds the execute permission. Without it you get "permission denied" no matter how correct the script is.
 
 </details>
+
+**Going further:** [arguments in a bash script](https://www.youtube.com/watch?v=GGyY6fJFnW0) · [wc](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=6698s) · [chmod](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=17235s)

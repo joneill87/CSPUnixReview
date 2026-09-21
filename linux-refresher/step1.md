@@ -17,3 +17,5 @@ Three commands cover this: one prints the directory you are in, one lists what i
 A relative path is read from where you are standing. `srv` means the `srv` directory here; `/srv` means one at the root of the filesystem, which is somewhere else entirely.
 
 </details>
+
+**Going further:** [pwd](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=2345s) · [cd](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=2961s) · [sending output to a file with `>`](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=5762s)

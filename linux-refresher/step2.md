@@ -18,3 +18,5 @@ In that listing the size is the number just before the date, and it is counted i
 To read a short file straight to the screen, `cat` it.
 
 </details>
+
+**Going further:** [ls](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=2467s) · [cat](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=6108s)

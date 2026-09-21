@@ -21,3 +21,5 @@ A pipe, `|`, feeds the output of the command on its left into the command on its
 The process id is at the end of the `ss` line, inside the brackets after `users:` — look for `pid=`.
 
 </details>
+
+**Going further:** [pipes](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=6832s) · [ps](https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=10052s) · [the ss command](https://www.youtube.com/watch?v=phY8Q7Woxsw)
