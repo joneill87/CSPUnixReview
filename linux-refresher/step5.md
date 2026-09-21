@@ -6,7 +6,13 @@ gcc srvinfo.c -o srvinfo
 
 It will not compile. Read what the compiler says: it gives you a file, a line number, and what it expected to find. Open the file in `nano`, fix it, save, and compile again.
 
-Once it builds, run it. Then look at the two files you now have:
+Once it builds, run it and see what it says. Then run it again, sending what it prints into a file instead of to the screen:
+
+```
+./srvinfo > srvinfo.out
+```
+
+Then look at the two files you started with:
 
 ```
 file srvinfo.c
